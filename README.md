@@ -18,7 +18,6 @@ sudo docker run -d -p 8080:80 \
  
 ### Paso 4. Se pide modificar el fichero index.html desde el host. 
 
- ![alt text](image.png)
 
 ### Paso 5. Se ha producido cambios , http://localhost:8080 
-"# 104FCProyecto2" 
+104FCProyecto2" 
